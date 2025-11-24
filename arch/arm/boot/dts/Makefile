@@ -488,6 +488,7 @@ dtb-$(CONFIG_SOC_IMX6Q) += \
 	imx6dl-tx6s-8035-smartrail-v1p0.dtb \
 	imx6dl-tx6s-8035-smartrail-v2p0.dtb \
 	imx6dl-tx6s-8035-smartrail-v2p1.dtb \
+	imx6dl-tx6s-8035-smartrail-v2p2.dtb \
 	imx6dl-tx6s-8035-smartpro-v1p2.dtb \
 	imx6dl-udoo.dtb \
 	imx6dl-wandboard.dtb \
@@ -601,6 +602,7 @@ dtb-$(CONFIG_SOC_IMX6Q) += \
 	imx6q-tx6qp-8037-smartrail-v1p0.dtb \
 	imx6q-tx6qp-8037-smartrail-v2p0.dtb \
 	imx6q-tx6qp-8037-smartrail-v2p1.dtb \
+	imx6q-tx6qp-8037-smartrail-v2p2.dtb \
 	imx6qp-wandboard-revd1.dtb \
 	imx6qp-zii-rdu2.dtb
 dtb-$(CONFIG_SOC_IMX6SL) += \
